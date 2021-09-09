@@ -11,7 +11,7 @@ Elastic APM PHP
 ## Installation
 To install the package with composer, run:
 ```shell script
-composer require anik/elastic-apm-php
+composer require cryptoman3/elastic-apm-php
 ```
 Use the appropriate version while installing if you want any specific version. Above command will install the latest available version.
 
